@@ -30,7 +30,7 @@ To set up the project locally, follow these steps:
 2. **Navigate to the project directory**:
 
     ```bash
-    cd WebBuzz
+    cd BinanceCryptocurrency
     ```
 
 3. **Install dependencies**: Run the following command to install all the required packages:
